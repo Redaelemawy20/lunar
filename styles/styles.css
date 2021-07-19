@@ -77,9 +77,10 @@ body {
 }
 .card {
   display: flex;
+  flex-wrap: wrap;
 }
 .card__text {
-  width: 60%;
+  width: 50%;
   color: white;
 }
 
@@ -87,10 +88,10 @@ body {
   width: 80%;
 }
 .hero__image {
-  width: 50rem;
+  width: 45%;
   background-image: url("../images/503.png");
   background-size: cover;
-  margin-left: 6rem;
+  margin-left: 2rem;
 }
 .btn {
   padding: 1rem 2rem;
