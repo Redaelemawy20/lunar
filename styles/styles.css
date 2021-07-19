@@ -1,0 +1,173 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto";
+  background-image: url("../images/DSC_0038.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.main {
+  margin-left: 2rem;
+}
+.container {
+  margin-left: 5.5rem;
+  flex-grow: 1;
+}
+.list {
+  list-style-type: none;
+}
+/* nav */
+.nav {
+  background-color: transparent;
+}
+.nav--border::after {
+  display: block;
+  content: "";
+  height: 3px;
+  background-color: #c50000;
+  opacity: 0.4;
+}
+.nav__logo img {
+  width: 10rem;
+  object-fit: cover;
+}
+.nav__logo .image-logo {
+  width: 56px;
+  /* height: 20px; */
+}
+.nav__content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 1rem;
+  align-items: center;
+  margin-left: 5rem;
+  width: 50%;
+}
+.nav__list {
+  display: flex;
+  list-style-type: none;
+  position: relative;
+}
+.list__item a {
+  margin-left: 10px;
+  color: gray;
+  text-decoration: none;
+  font-size: 19px;
+}
+.main a {
+  color: white;
+}
+/* hero */
+.hero {
+  margin-top: 3rem;
+
+  width: 98%;
+  border-radius: 0px 10px 10px 0px;
+  padding: 2rem 4rem;
+  padding-right: 0;
+  background-color: #0000001f;
+  backdrop-filter: blur(30px);
+}
+.card {
+  display: flex;
+}
+.card__text {
+  width: 60%;
+  color: white;
+}
+
+.card__body {
+  width: 80%;
+}
+.hero__image {
+  width: 50rem;
+  background-image: url("../images/503.png");
+  background-size: cover;
+  margin-left: 6rem;
+}
+.btn {
+  padding: 1rem 2rem;
+  margin-right: 10px;
+  border: 0;
+  color: white;
+  text-transform: uppercase;
+  width: 15rem;
+}
+.card__buttons {
+  margin-top: 3rem;
+}
+.btn--primary {
+  background-color: #c50000;
+}
+.btn--seceondary {
+  background-color: transparent;
+  border: 1px solid white;
+}
+.btn--icon {
+  padding: 1rem 2.5rem;
+  position: relative;
+  text-align: left;
+}
+.btn--icon i {
+  position: absolute;
+  top: 4px;
+  left: 10px;
+  font-size: 2rem;
+
+  margin-right: 10px;
+}
+.icons {
+  margin-top: 40px;
+  color: white;
+  display: inline-block;
+  font-size: 1.1rem;
+}
+.icons i {
+  background-color: #c50000;
+}
+i {
+  padding: 5px;
+  margin-right: 5px;
+}
+
+/* heading */
+.card__heading {
+  line-height: 1.2;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.social {
+  margin-top: 1rem;
+  color: black;
+  display: flex;
+  flex-direction: column;
+}
+.social i {
+  font-size: 1.3rem;
+  padding: 10px;
+  color: white;
+}
+.link-active {
+  position: relative;
+}
+.link-active a {
+  color: #c50000;
+}
+.link-active::after {
+  display: block;
+  content: "";
+  height: 3px;
+  width: 80%;
+  position: absolute;
+  top: 48px;
+  left: 15px;
+  background-color: #c50000;
+}

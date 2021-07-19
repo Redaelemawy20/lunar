@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="./styles/styles.css" />
+    <link rel="stylesheet" href="./styles/pricing.css" />
+    <link rel="stylesheet" href="./styles/font-awesome.min.css" />
+    <link rel="icon" href="./images/icon.jpg" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto"
+      rel="stylesheet"
+    />
+    <title>Lunar Robotics</title>
+  </head>
+  <body>
+    <nav class="nav nav--border">
+      <div class="nav__content">
+        <div class="nav__logo">
+          <a href="./index.html">
+            <img src="./images/lunar-logo-light.jpg" alt="icon" />
+          </a>
+        </div>
+
+        <ul class="nav__list">
+          <li class="list__item link-active">
+            <a href="./pricing.html">Pricing</a>
+          </li>
+          <li class="list__item"><a href="./dashboard.html">Dashboard</a></li>
+        </ul>
+      </div>
+    </nav>
+    <div class="container pricing">
+      <div class="pricing__header">
+        <h2 class="pricing__heading">Pricing</h2>
+        <p>
+          The preconfigured packages offer everything needed to get started
+          quickly.<br />
+          Don’t see what you’re looking for? Visit our
+          <span class="text--red">sensors and components store</span> or
+          <span class="text--red">contact us</span>.
+        </p>
+      </div>
+      <div class="pricing__plans">
+        <button class="btn btn--primary btn--icon">
+          <i class="fa fa-caret-down" aria-hidden="true"></i>developer package
+        </button>
+        <button class="btn btn--primary btn--icon">
+          <i class="fa fa-caret-right" aria-hidden="true"></i>explorer package
+        </button>
+        <button class="btn btn--primary btn--icon">
+          <i class="fa fa-caret-right" aria-hidden="true"></i>vision package
+        </button>
+        <div class="plan__description">
+          <div class="">
+            <h3 id="title">DEVELOPER PACKAGE</h3>
+            <p id="text">
+              We’ve partnered with NVIDIA to offer a "Lander5" built around the
+              Jetson AGX Xavier: a fast, efficient computing device, ideal for
+              robotics development. The JETSON developer package takes advantage
+              of NVIDIA’s standard hardware interfaces and graphics processing
+              capabilities. Built around a powerful and compact GPU, the Jetson
+              is the preferred computing platform for VSLAM, 3D imaging and
+              machine learning applications.
+            </p>
+            <div class="plan__price">
+              <div class="price">
+                <span id="price">19.999</span> <span class="egp">EGP</span>
+              </div>
+            </div>
+            <button class="btn btn--seceondary">Purchase</button>
+          </div>
+          <img
+            class="product__image"
+            src="./images/Web 1366 – 7.jpg"
+            width="535"
+            height="310"
+            alt=""
+            id="image"
+          />
+        </div>
+      </div>
+    </div>
+    <script src="./js/index.js"></script>
+  </body>
+</html>

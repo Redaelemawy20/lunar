@@ -1,0 +1,55 @@
+body {
+  background-color: white;
+  background-image: none;
+}
+/* pricing */
+.pricing {
+  margin-top: 2rem;
+}
+.pricing__heading {
+  color: #c50000;
+  margin-bottom: 0.5rem;
+}
+.pricing__header {
+  margin-bottom: 2.5rem;
+}
+.plan__description {
+  margin-top: 2rem;
+  display: flex;
+}
+.plan__description h3 {
+  margin-bottom: 0.5rem;
+}
+.plan__description p {
+  margin-bottom: 3rem;
+  width: 33.4rem;
+}
+.product__image {
+  margin-left: 2rem;
+}
+.text--red {
+  color: #c50000;
+}
+.plan__price {
+  margin-top: 1rem;
+  color: #c50000;
+  position: relative;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+.price {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.egp {
+  position: absolute;
+  top: -5px;
+  right: -50px;
+  font-size: 1.5rem;
+}
+.plan__description .btn {
+  display: block;
+  color: #c50000;
+  border-color: #c50000;
+  margin-top: 0.5rem;
+}

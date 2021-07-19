@@ -1,0 +1,116 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 203" id="Group 33">
+    <defs>
+      <linearGradient id="a" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+        <stop offset="0" stop-color="#9d9d9d"></stop>
+        <stop offset="1" stop-color="#cfcfcf" stop-opacity=".239"></stop>
+      </linearGradient>
+    </defs>
+    <path fill="#c50000" d="M0 0h300v23H0z"></path>
+    <g stroke="#c50000" fill="#fff">
+      <path d="M0 23h300v180H0z"></path>
+      <path d="M.5 23.5h299v179H.5z"></path>
+    </g><text transform="translate(10 16)" font-family="Roboto-Medium,Roboto" font-weight="500" font-size="13" fill="#fff">
+      <tspan x="0" y="0">Risk</tspan>
+    </text>
+    <g stroke="transparent" fill="#c50000">
+      <path d="M10 141h280v52H10z"></path>
+      <path d="M10.5 141.5h279v51h-279z"></path>
+    </g>
+    <g stroke="transparent" fill="#fff">
+      <path d="M201 144h86v46h-86z"></path>
+      <path d="M201.5 144.5h85v45h-85z"></path>
+    </g><text transform="translate(22 180)" font-size="37" font-family="Roboto-Medium,Roboto" font-weight="500" fill="#fff">
+      <tspan x="0" y="0">20%</tspan>
+    </text><text transform="translate(244 172)" font-family="Roboto-Regular,Roboto" font-size="14">
+      <tspan x="-13.166" y="0">Risk</tspan>
+    </text>
+    <g stroke="#dfe3e6" fill="#fff">
+      <path d="M10 33h280v106H10z"></path>
+      <path d="M10.5 33.5h279v105h-279z"></path>
+    </g><text transform="translate(25 128)">
+      <tspan x="-4.492" y="0">0</tspan>
+    </text><text transform="translate(25 49)">
+      <tspan x="-13.477" y="0">100</tspan>
+    </text>
+    <path d="M29 46h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zM29 54h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zM29 62h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zM29 70h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zM29 78h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zM29 86h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zM29 94h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm-248 8h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm-248 8h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm-248 8h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm-248 8h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8zm8 0h8v8h-8z"></path>
+    <path d="M1493.937 826l-255.916-.04v-31.993l24.03-23.892 24.082-8.137 23.875-7.963 24 16.031 24.034 8.026H1382L1406.091 794h24.07l23.923 8.037h23.923l16.079 8.04z" transform="translate(-1209 -692)" fill="url(#a)"></path>
+    <path d="M29 101.939l24-23.877 23.936-8.125 24.095-7.922L125 78.047l24.036 8.05h23.984l23.988 16.02h23.957l24.119 8.02h23.923l16.079 7.844" stroke="#000" fill="none" stroke-width=".5"></path>
+    <g transform="translate(51 76)">
+      <circle cx="2" cy="2" r="2"></circle>
+      <circle cx="2" cy="2" r="1.75"></circle>
+    </g>
+    <g transform="translate(27 100)">
+      <circle cx="2" cy="2" r="2"></circle>
+      <circle cx="2" cy="2" r="1.75"></circle>
+    </g>
+    <g transform="translate(75 68)">
+      <circle cx="2" cy="2" r="2"></circle>
+      <circle cx="2" cy="2" r="1.75"></circle>
+    </g>
+    <g transform="translate(99 60)">
+      <circle cx="2" cy="2" r="2"></circle>
+      <circle cx="2" cy="2" r="1.75"></circle>
+    </g>
+    <g transform="translate(123 76)">
+      <circle cx="2" cy="2" r="2"></circle>
+      <circle cx="2" cy="2" r="1.75"></circle>
+    </g>
+    <g transform="translate(147 84)">
+      <circle cx="2" cy="2" r="2"></circle>
+      <circle cx="2" cy="2" r="1.75"></circle>
+    </g>
+    <g transform="translate(171 84)">
+      <circle cx="2" cy="2" r="2"></circle>
+      <circle cx="2" cy="2" r="1.75"></circle>
+    </g>
+    <g transform="translate(195 100)">
+      <circle cx="2" cy="2" r="2"></circle>
+      <circle cx="2" cy="2" r="1.75"></circle>
+    </g>
+    <g transform="translate(219 100)">
+      <circle cx="2" cy="2" r="2"></circle>
+      <circle cx="2" cy="2" r="1.75"></circle>
+    </g>
+    <g transform="translate(243 108)">
+      <circle cx="2" cy="2" r="2"></circle>
+      <circle cx="2" cy="2" r="1.75"></circle>
+    </g>
+    <g transform="translate(267 108)">
+      <circle cx="2" cy="2" r="2"></circle>
+      <circle cx="2" cy="2" r="1.75"></circle>
+    </g>
+    <g transform="translate(283 116)">
+      <circle cx="2" cy="2" r="2"></circle>
+      <circle cx="2" cy="2" r="1.75"></circle>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74.051 52" id="lunar-icon-light">
+    <defs>
+      <filter id="a" x="0" y="16.961" width="74.051" height="35.039" filterUnits="userSpaceOnUse">
+        <feOffset dy="-3"></feOffset>
+        <feGaussianBlur stdDeviation="3" result="d"></feGaussianBlur>
+        <feFlood flood-opacity=".161"></feFlood>
+        <feComposite operator="in" in2="d"></feComposite>
+        <feComposite in="SourceGraphic"></feComposite>
+      </filter>
+      <filter id="b" x="0" y="0" width="74.051" height="35.039" filterUnits="userSpaceOnUse">
+        <feOffset dy="3"></feOffset>
+        <feGaussianBlur stdDeviation="3" result="h"></feGaussianBlur>
+        <feFlood flood-opacity=".161"></feFlood>
+        <feComposite operator="in" in2="h"></feComposite>
+        <feComposite in="SourceGraphic"></feComposite>
+      </filter>
+    </defs>
+    <g transform="translate(9 6)">
+      <rect width="40" height="11.359" rx="5.68" transform="rotate(90 5.68 5.68)"></rect>
+      <g transform="translate(-9 -6)" filter="url(#a)">
+        <path d="M14.605 34.637h44.841A5.551 5.551 0 0163.41 36.3a5.7 5.7 0 01-4.091 9.7H14.605a5.551 5.551 0 01-3.964-1.663A5.7 5.7 0 019 40.316V28.957a5.643 5.643 0 005.605 5.68z"></path>
+      </g>
+      <rect width="40" height="11.359" rx="5.68" transform="rotate(-90 42.346 -2.346)"></rect>
+      <g transform="translate(-9 -6)" filter="url(#b)">
+        <path d="M59.446 17.359H14.605a5.551 5.551 0 01-3.964-1.663A5.7 5.7 0 019 11.68 5.643 5.643 0 0114.605 6h44.841a5.551 5.551 0 013.964 1.663 5.7 5.7 0 011.641 4.017v11.359a5.643 5.643 0 00-5.605-5.68z"></path>
+      </g>
+    </g>
+  </symbol>
+</svg>

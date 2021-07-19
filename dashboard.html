@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="./styles/styles.css" />
+    <link rel="stylesheet" href="./styles/dashboard.css" />
+    <link rel="stylesheet" href="./styles/font-awesome.min.css" />
+    <link rel="icon" href="./images/icon.jpg" />
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto"
+      rel="stylesheet"
+    />
+    <title>Lunar Robotics</title>
+  </head>
+  <body>
+    <nav class="nav nav--border">
+      <div class="nav__content">
+        <div class="nav__logo">
+          <a href="./index.html">
+            <img src="./images/lunar-logo-light.jpg" alt="icon" />
+          </a>
+        </div>
+
+        <ul class="nav__list">
+          <li class="list__item"><a href="./pricing.html">Pricing</a></li>
+          <li class="list__item link-active">
+            <a href="./dashboard.html">Dashboard</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="container">
+      <div class="dashboard">
+        <ul class="dashboard__list">
+          <li class="dashboard__item active">Dashboard</li>
+          <li class="dashboard__item">Develop</li>
+          <li class="dashboard__item">Upgrade</li>
+          <li class="dashboard__item">Support</li>
+        </ul>
+      </div>
+      <div class="content">
+        <h2>Dashboard</h2>
+        <div class="product">
+          <div class="product__image">
+            <img src="./images/Web 1366 – 7.jpg" alt="" />
+          </div>
+          <div class="product__details">
+            <h2>Connected</h2>
+            <ul class="list">
+              <li>Model: lander5</li>
+              <li>Serial: l3s5g-d8</li>
+              <li>Duration: 3 hours</li>
+            </ul>
+          </div>
+        </div>
+        <div class="statistics">
+          <img src="./images/Group 33.svg" alt="" />
+          <div class="reading">
+            <div class="reading__header">Readings</div>
+            <ul class="list">
+              <li class="item-flex"><span>Battary:</span><span>55%</span></li>
+              <li class="item-flex"><span>Voltage:</span><span>48%V</span></li>
+              <li class="item-flex"><span>Speed:</span><span>3m/s</span></li>
+              <li class="item-flex">
+                <span>Location:</span><span>Cario</span>
+              </li>
+              <li class="item-flex">
+                <span>Singal strength:</span><span>77%</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript" src="./js/index.js"></script>
+  </body>
+</html>
